@@ -3,3 +3,4 @@ beautifulsoup4
 html5lib
 lxml
 PyQt6
+requests
